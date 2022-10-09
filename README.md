@@ -10,10 +10,12 @@
 
 ### Connect with me:
 [<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left"  />][instagtam]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagtam]
 <br />
 <br />
 ----
+
+
 ### Tech I use 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,5 +36,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
 </details>
 ---
-[linkedIn]:  https://www.linkedin.com/in/musab-olug-711a58225/
-[instagtam]: https://www.instagram.com/musabolugofficial/
+[linkedin]: https://www.linkedin.com/in/musab-olug-711a58225/
+[instagtam]: https://www.instagram.com/musabolugofficial
