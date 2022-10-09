@@ -9,7 +9,7 @@
 - 👉 https://bio.link/musabolug
 
 ### Connect with me:
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/LinkedIn.svg" align="left"  />][LinkedIn]
+[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/Instagram.svg" align="left"  />][Instagtam]
 <br />
 <br />
@@ -29,9 +29,10 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=musabolug&show_icons=true&theme=dark" 
 <br />
-<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=musaboluga&layout=compact" >
-
-<br />
+<details>
+<summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
+</details>
 ---
 [LinkedIn]:  https://www.linkedin.com/in/musab-olug-711a58225/
 [Instagtam]: https://www.instagram.com/musabolugofficial/
