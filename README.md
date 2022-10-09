@@ -10,7 +10,7 @@
 
 ### Connect with me:
 [<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/Instagram.svg" align="left"  />][Instagtam]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left"  />][instagtam]
 <br />
 <br />
 ----
@@ -34,5 +34,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
 </details>
 ---
-[LinkedIn]:  https://www.linkedin.com/in/musab-olug-711a58225/
-[Instagtam]: https://www.instagram.com/musabolugofficial/
+[linkedIn]:  https://www.linkedin.com/in/musab-olug-711a58225/
+[instagtam]: https://www.instagram.com/musabolugofficial/
