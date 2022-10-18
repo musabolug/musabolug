@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/musab b. m. oluğ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musab b. m. oluğ" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/musab-b-m-oluğ-711a58225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musab b. m. oluğ" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19929635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19929635" height="30" width="40" /></a>
 <a href="https://instagram.com/musabolugofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musabolugofficial" height="30" width="40" /></a>
-<a href="https://www.behance.net/musab bera mansur oluğ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="musab bera mansur oluğ" height="30" width="40" /></a>
+<a href="https://www.behance.net/musabberaolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="musab bera mansur oluğ" height="30" width="40" /></a>
 <a href="https://medium.com/@musabolug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@musabolug" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/musabolug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="musabolug" height="30" width="40" /></a>
 </p>
