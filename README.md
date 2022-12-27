@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musabolug" alt="musabolug" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 [https://bio.link/musabolug](https://bio.link/musabolug)
 
