@@ -11,6 +11,8 @@
 ###
 
 <p align="left">📚 I'm currently learning Socket.io</p>
+<p align="left">👨‍💻 https://bio.link/musabolug</p>
+<p align="left">📫 musabolug@gmail.com</p>
 
 ###
 
